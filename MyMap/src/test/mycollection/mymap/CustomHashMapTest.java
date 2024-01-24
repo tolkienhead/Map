@@ -1,12 +1,12 @@
-package mycollection.mymap;
+package test.mycollection.mymap;
 
+import main.mycollection.mymap.CustomHashMap;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.util.Collection;
-import java.util.List;
 import java.util.Set;
 
 public class CustomHashMapTest {

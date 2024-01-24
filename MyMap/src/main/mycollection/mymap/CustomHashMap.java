@@ -1,4 +1,4 @@
-package mycollection.mymap;
+package main.mycollection.mymap;
 
 import java.util.*;
 
